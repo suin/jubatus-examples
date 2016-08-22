@@ -27,5 +27,5 @@ brew install mecab mecab-ipadic
 
 ## 各種サンプル
 
-* recommender-related-blog-posts: 関連するブログ記事を推薦します。特徴抽出はmecabによる名詞抽出、特徴量はtf-idfによる名詞頻出数。
+* recommender-related-blog-posts: 関連するブログ記事を推薦します。特徴抽出はmecabによる名詞抽出、特徴量はtf-idfによる名詞頻出数。[文章を放り込むだけ！Jubatusで作るブログの関連記事を推薦する人工知能](https://suin.io/543)
 
